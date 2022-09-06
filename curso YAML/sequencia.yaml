@@ -1,0 +1,12 @@
+#roles:
+#  - webserver
+#  - database
+
+#payload: 
+#  - bitcoin
+#  - ethereum 
+
+#lista válida, mas não pode ter nada antes
+- python
+- nginx
+- postgree

@@ -1,0 +1,14 @@
+#block
+host1: geek
+datacenter:
+  location: sao paulo
+  router: 42
+roles:
+  - web
+  - dns
+
+#flow
+host2: "geek"
+datacenter2: { location:
+  Sao Paulo, router: 42}
+roles2: { web, dns}

@@ -1,0 +1,16 @@
+---
+host: geek
+datacenter:
+  location: &SP sao paulo
+  router: 42
+---
+host: udemy
+datacenter:
+  location: *SP
+---
+roles: &ghost
+  - webserver
+  - database
+---
+---
+roles: *ghost

@@ -1,0 +1,5 @@
+# chave: valor
+host: geek
+datacenter:
+  location: sao paulo
+  router: 42

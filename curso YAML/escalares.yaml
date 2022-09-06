@@ -1,0 +1,23 @@
+#todos são valores escalares
+host: geek 
+datacenter:
+  location: São Paulo
+  router: 42
+  switch: 34
+role: 
+  - webserver
+  - database
+# com o pipe os espaços entre as linha são respeitados
+funcionamento: |
+  segunda - das 8:00 às 17:00
+  terça - das 9:00 às 17:00
+  quarta - das 9:00 às 17:00
+  quinta - das 9:00 às 17:00
+  sexta - das 9:00 às 17:00
+# com o > fica tudo numa mesma linha
+comentario: > 
+  Temos alto uso de cpu desde 04/10
+  estamos investigando
+  
+
+    Autor do texto.

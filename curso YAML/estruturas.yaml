@@ -1,0 +1,12 @@
+---
+host: geek
+datacenter:
+  location: sao paulo
+  router: 42
+---
+host: geek
+datacenter:
+  location: sao paulo
+  router: 42
+
+# os 3 traços determinam onde acaba e termina as configurações
