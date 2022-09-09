@@ -43,5 +43,6 @@
 * docker image inspect id_image : inspeciona a imagem 
 * docker image tag imagem:versao nome_que_quero_criar : criar uma tag para uma imagem
 
-
-  
+## Acessar a porta de um container
+* docker run -d -p 8080:80 container:versão : para a porta no computador espelhar a porta do container e poder acessar
+* para acessar no navegador: localhost:8080
