@@ -1,0 +1,28 @@
+nome: "Mateus"
+idade: 30
+
+objeto:
+  versao: 2
+  aquivo: "teste.txt"
+
+string-sem-aspas: Aqui sem aspas 
+nulo: ~
+nulo2: null 
+verdade: on 
+falso: off
+
+lista1: [1,2,3,4]
+lista2: 
+  - 1
+  - 2
+  - 3
+  - 4
+
+dicionario1: {a: 1, b: 2, c: 3}
+dicionario2: 
+  chave: 1
+  chave2: 2
+  objeto_interno: 
+    a: 1
+    b: 2
+    c: 3
